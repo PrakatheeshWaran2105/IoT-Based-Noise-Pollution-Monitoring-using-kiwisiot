@@ -10,7 +10,7 @@ The ESP8266 connects to Wi-Fi and transmits the sensor readings to the KiwisIoT 
 
 Project Link:https://www.hackster.io/prakatheesh2105/iot-based-noise-pollution-monitoring-using-kiwisiot-a54804
 
-https://www.kiwisiot.com/
+https://www.kiwisiot.in/
 
 Learn More:
 
